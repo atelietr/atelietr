@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atelietr/static/css/main.2b8aeb6e.css",
+    "main.js": "/atelietr/static/js/main.441e12d3.js",
+    "static/js/453.446054ed.chunk.js": "/atelietr/static/js/453.446054ed.chunk.js",
+    "static/media/produto3.jpeg": "/atelietr/static/media/produto3.8f32c84678a153d40183.jpeg",
+    "static/media/produto2.jpeg": "/atelietr/static/media/produto2.eb797085cec0f2abb14e.jpeg",
+    "static/media/produto4.jpeg": "/atelietr/static/media/produto4.ae587f9709ceb01a139f.jpeg",
+    "static/media/produto5.jpeg": "/atelietr/static/media/produto5.7d788f2e69c3049f348c.jpeg",
+    "static/media/produto1.jpeg": "/atelietr/static/media/produto1.4b03e61b53649875e672.jpeg",
+    "static/media/produto6.jpeg": "/atelietr/static/media/produto6.25840da495f8e990fd9c.jpeg",
+    "static/media/dress.jpeg": "/atelietr/static/media/dress.6d9c3a10a8732316635e.jpeg",
+    "index.html": "/atelietr/index.html",
+    "static/media/arrow-left.svg": "/atelietr/static/media/arrow-left.ecd4c3812018d443f1db06b999bf9034.svg",
+    "main.2b8aeb6e.css.map": "/atelietr/static/css/main.2b8aeb6e.css.map",
+    "main.441e12d3.js.map": "/atelietr/static/js/main.441e12d3.js.map",
+    "453.446054ed.chunk.js.map": "/atelietr/static/js/453.446054ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b8aeb6e.css",
+    "static/js/main.441e12d3.js"
+  ]
+}
