@@ -1,0 +1,11 @@
+.arrow {
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+
+.header {
+  height: 45px;
+  padding: 10px;
+  background-color: lightgray;
+}
