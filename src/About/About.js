@@ -1,6 +1,6 @@
 import Slider from 'react-slick';
 import Header from '../Header/Header';
-import { dress, produtos } from '../images';
+import { produtos } from '../images';
 import './About.css';
 
 function About() {
@@ -25,8 +25,9 @@ function About() {
         <p className="text">{text}</p>
         <div className="slider-container">
           <Slider {...settings}>
-            {produtos.map((produto) => (
+            {produtos.map((produto, index) => (
               <img
+                alt={`Vestido ${index}`}
                 className="about-img"
                 style={{ width: '100%' }}
                 key={produto}

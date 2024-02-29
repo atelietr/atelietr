@@ -1,5 +1,5 @@
 .App {
-  background-color: gray;
+  background: linear-gradient(to bottom, #202020, #111119);
   width: 100%;
   min-height: 100vh;
 }
@@ -22,4 +22,22 @@
 .title {
   font-size: 20px;
   font-weight: bold;
+}
+
+label {
+  color: lightgray;
+}
+
+p {
+  color: lightgray;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0%;
+  }
+
+  100% {
+    opacity: 100%;
+  }
 }

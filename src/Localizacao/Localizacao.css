@@ -4,6 +4,7 @@
 }
 
 .localizacao-container {
+  animation: fade-in 0.5s linear;
   padding: 20px;
   justify-content: center;
 }

@@ -1,6 +1,4 @@
-import Slider from 'react-slick';
 import Header from '../Header/Header';
-import { produtos } from '../images';
 import './Localizacao.css';
 import { MAP_URL } from '../utils';
 

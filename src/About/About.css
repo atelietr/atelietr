@@ -1,4 +1,5 @@
 .about-container {
+  animation: fade-in 0.5s linear;
   padding: 20px;
   display: flex;
   flex-direction: column;

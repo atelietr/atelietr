@@ -7,14 +7,6 @@
   justify-content: center;
 }
 
-.bkg-img {
-  width: 100%;
-  height: 100vh;
-  object-fit: cover;
-  z-index: -1;
-  position: absolute;
-}
-
 .profile {
   display: flex;
   justify-content: center;
@@ -22,6 +14,7 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
+  animation: fade-in 1s linear;
 }
 
 .photo {
@@ -30,10 +23,17 @@
   border-radius: 100px;
 }
 
-.container {
+.home-container {
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.home-buttons-container {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  animation: fade-in 2s linear;
 }
 
 .name {

@@ -7,7 +7,12 @@ const Header = () => {
 
   return (
     <div className="header">
-      <img onClick={() => navigate(-1)} className="arrow" src={arrowLeft}></img>
+      <img
+        alt="Voltar"
+        onClick={() => navigate(-1)}
+        className="arrow"
+        src={arrowLeft}
+      ></img>
     </div>
   );
 };
